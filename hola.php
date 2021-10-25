@@ -2,7 +2,6 @@
 if (isset($_POST['boton'])) {
     header('Location:./adios.php');
     }
-
  echo "
 <!DOCTYPE html>
 <html lang='es'>
